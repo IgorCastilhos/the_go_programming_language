@@ -1,8 +1,6 @@
 /*
-
 	Duplicate exibe o texto de cada linha que aparece mais de uma vez
     na entrada-padrão, precedida por sua contagem.
-
 */
 
 package main
